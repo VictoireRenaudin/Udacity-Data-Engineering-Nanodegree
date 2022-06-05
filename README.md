@@ -1,4 +1,4 @@
-# Udatcity - Data Engineering Nanodgree Program
+# Udatcity - Data Engineering Nanodegree Program
 This training allow me to learn to design data models, build data warehouses and data lakes, automate data pipelines, and work with massive datasets.
 
 * Create user-friendly relational and NoSQL data models
